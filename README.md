@@ -1,4 +1,4 @@
-```markdown
+
 # FHE Noise Visualizer: A Real-Time Monitoring Tool for FHE Computations
 
 The FHE Noise Visualizer is a powerful developer tool designed to provide real-time monitoring of noise levels in Fully Homomorphic Encryption (FHE) computations, leveraging **Zama's Fully Homomorphic Encryption technology**. This tool plays a crucial role in optimizing circuit designs and ensuring the accuracy of computation results by visualizing the growth of noise during the encryption process.
